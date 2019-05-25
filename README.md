@@ -35,4 +35,14 @@ Selain itu, format dari json dapat dikenali oleh berbagai platfrom/bahasa pemrog
 >> buat sebuah database dengan nama *bootcamp* , pindah direktori bootcamp ke htdocs atau direktori web service anda.
 >> import file bootcamp.sql
 
-![ScreenShot](https://i.imgur.com/h2R9clu.png)
+![ScreenShot](https://i.ibb.co/jk71BvD/1.png)
+![ScreenShot](https://i.ibb.co/XVZcKFZ/2.png)
+![ScreenShot](https://i.ibb.co/LgKf23h/3.png)
+![ScreenShot](https://i.ibb.co/bWYh9QP/4.png)
+![ScreenShot](https://i.ibb.co/PDC8nd9/5.png)
+
+## setelah di desain "sedikit" :v
+
+![ScreenShot](https://i.ibb.co/gd729J6/6.png)
+
+>> kebetulan lagi ngerjain project jadi agak gak sempet untuk desain lebih bagus lagi :D
