@@ -46,3 +46,5 @@ Selain itu, format dari json dapat dikenali oleh berbagai platfrom/bahasa pemrog
 ![ScreenShot](https://i.ibb.co/gd729J6/6.png)
 
 >> kebetulan lagi ngerjain project jadi agak gak sempet untuk desain lebih bagus lagi :D
+
+*Sekian & Terima kasih*
