@@ -25,9 +25,9 @@ Selain itu, format dari json dapat dikenali oleh berbagai platfrom/bahasa pemrog
 
 >> cukup dengan membuka browser, karena hanya pakai html dan javascript original
 
-### 5). File dengan nama "5.html"
+### 5). File dengan nama "5.php"
 
->> cukup dengan membuka browser, karena hanya pakai html dan javascript original
+>> silahkan buka https://www.onlinegdb.com/ untuk mengecek file php nya. atau menggunakan localhost, dengan cara menaruh file ini ke tempat htdocs atau /var/www/html (sesuai direktori)
 
 ### 6). 6A.txt
 >> cukup dibuka dengan notepad :)
